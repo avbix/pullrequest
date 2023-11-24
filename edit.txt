@@ -1,2 +1,2 @@
-name:
-second_name:
+name: Yana
+second_name: Sergeeva
