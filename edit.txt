@@ -1,2 +1,2 @@
-name:
-second_name:
+name:Егор
+second_name:Архипов
