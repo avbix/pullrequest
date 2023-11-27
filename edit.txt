@@ -1,2 +1,2 @@
-name:
-second_name:
+name: Arina
+second_name: Buvashkina
