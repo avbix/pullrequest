@@ -1,2 +1,2 @@
-name:
-second_name:
+name: maxim
+second_name: mukhin
