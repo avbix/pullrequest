@@ -1,2 +1,2 @@
-name:
-second_name:
+name:Vladislav
+second_name:Vladimirovich
