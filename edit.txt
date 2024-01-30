@@ -1,2 +1,2 @@
-name:
-second_name:
+name: Валерий
+second_name: Корепов
